@@ -25,7 +25,7 @@
 
     <div class="container">
 
-        <h1 class="p-3"> Theeee subashan Add Anime </h1>
+        <h1 class="p-3"> The subash Add Anime </h1>
 
         <form:form action="/saveAnime" method="post" modelAttribute="anime">
 
